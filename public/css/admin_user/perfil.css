@@ -1,0 +1,424 @@
+.perfilContent{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.perfilContent{
+	_background-color: red;
+}
+
+/* div topPerfil */
+.topPerfil{
+	overflow: hidden;
+	_background-color: orange;
+	_text-decoration: none;
+}
+
+/* div topPerfil */
+.list-menu{
+	
+	float: left;
+	text-decoration: none;
+	_background-color: blue;
+	width: 245px;
+	height: 130px;
+	padding-top: 20px;
+}
+.list-menu {
+	text-align: center;
+	
+}
+
+
+.perfilContent .topPerfil a{
+	
+	text-decoration:none;
+
+}
+.list-menu:hover{
+	background-color: #242f3a;
+	color: #fff;
+}
+
+
+
+
+.atras h2{
+	color: #242f3a;
+	background-color: #fff;
+}
+.atras h2{
+	position: relative;
+	padding-top: 20px;
+	width: 20%;
+	text-align: center;
+	height: 80px;
+	float: left;
+	_background-color: blue;
+}
+
+.atras a h2:hover{
+	background-color: #242f3a;
+	color: #fff;
+	border-radius: 15px;
+}
+.atras a {
+	text-decoration:none;
+}
+.imgPerfil {
+	width: 100px;
+	height: 75px;
+	border-radius: 15px;
+}
+
+.perfil{
+	float: right;
+	_background-color: black;
+	text-align: center;
+	width: 240px;
+	color: black;
+}
+/* fin div topPerfil */
+
+/* div divMenu */
+.divMenu{
+	_background-color: blue;
+	overflow: hidden;
+}
+.aside{
+	position: relative;
+	width: 20%;
+	float: left;
+}
+.dataUser{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.dataUser{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.dataUser{
+	background-color: #fff;
+	float: right;
+	_width: 100%;
+}
+
+.divMenu .dataUser h1{
+	color: #337ab7;
+}
+.divMenu .dataUser .data{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.divMenu .dataUser .data{
+	_background-color: red;
+	_width: 15%;
+	margin:auto;
+}
+/*******************************************************************************************************/
+/* div contentDivMenu */
+
+.contentDivMenu{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.contentDivMenu{
+	_background-color: orange;
+	float: left;
+	
+}
+.contentDivMenu{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+/* fin div contentDivMenu */
+/*******************************************************************************************************/
+
+/*div medicionUser*/
+.medicionUser{
+	/*
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	*/
+}
+.medicionUser{
+	float: left;
+	_background-color: green;
+	_display: none;
+}
+.medicionUser h1{
+	color: #337ab7;
+}
+
+.infoMedicion{
+	
+	_background-color: black;
+}
+.doubleDatils{
+	overflow: hidden;
+}
+.contentDivMenu .medicionUser .data{
+	
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.medicionUser .data{
+	_background-color: red;
+	_width: 15%;
+	margin:auto;
+}
+.medicionCorporal{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.pliegueCorporal{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.medicion{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.detalleMedicion{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.porcentajes{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.medicionCorporal{
+	_position: relative;
+	_background-color: red;
+	_width: 200px;
+	_height: 200px;
+	float: left;
+}
+.pliegueCorporal{
+	_position: relative;
+	_background-color: black;
+	_width: 200px;
+	_height: 200px;
+	float: left;
+
+}
+.medicion{
+	_position: relative;
+	_background-color: #fff;
+	_width: 200px;
+	_height: 200px;
+	float: left;
+}
+.detalleMedicion{
+	_position: relative;
+	_background-color: orange;
+	_width: 60%;
+	_width: 200px;
+	_height: 200px;
+	_float: left;
+}
+.porcentajes{
+	_background-color: blue;
+}
+/*fin div medicionUser*/
+
+/******************************************************************************************************************/
+
+/* div padecimientos */
+
+.divPreguntas{
+	overflow: hidden;
+}
+
+.crearPadecimientos h2{
+	_background-color: #ddd;
+}
+
+.divleft{
+
+	_background-color: red;
+	float: left;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.divrigth{
+	_background-color: black;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.buttonsGuardar{
+	margin-left: 15px;
+}
+
+
+.crearPadecimientos{
+	_float: left;
+	_background-color: red;
+	display: none;
+}
+
+
+table{
+
+	_width: 100%
+}
+/*
+
+
+#listPadecimiento{
+	background-color: black;
+}
+#listPadece{
+	background-color: yellow;
+	width: 300px;
+}
+#listRecomendacion{
+	background-color: blue;
+}
+
+.crearPadecimientos{
+	_float: left;
+	background-color: red;
+	_display: none;
+}
+.divTitlesPadecimiento{
+	background-color: #fff;
+}
+.listPadecimiento{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.divTitlesPadecimiento .listPadecimiento{
+	display: inline-block;
+}
+*/
+/* fin div padecimientos */
+
+
+/*****************************************************************************************/
+
+/*Detalle medicion*/
+
+/**Formulario de indice masa corporal **/
+#formIndice{
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+
+#formIndice{
+  _background-color: red;
+  width: 30%;
+  display: none;
+}
+#cacular{
+	display: none;
+}
+.error{
+color:#FF0000;
+font-size:12px;
+}
+#indiceGuardar{
+	display: none;
+}
+/** fin Formulario de indice masa corporal **/
+
+/**Formulario de frecuencia Cardiaca **/
+#formFrecuencia{
+	width: 42%;
+	display: none;
+	_background-color: red;
+}
+#FrecuenciaFCME{
+	display: none;
+}
+#ReservaFC{
+	display: none;
+}
+#FrecuenciaCO{
+	display: none;
+}
+#frecuenciaGuardar{
+	display: none;
+}
+
+
+/**fin Formulario de frecuencia Cardiaca **/
+
+
+/*fin Detalle medicion*/
+
+
+
+/**********************************************************************************************************/
+/*datos de pagos*/
+.datos_de_pagos{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.datos_de_pagos{
+	 width:32%;
+	 background-color: #fff;
+	 _position: absolute;
+}
+.datos_de_pagos{
+	display: none;
+}
+.mensaje{
+	display: none;
+}
+.error{
+	display: none;
+}
+/*fin datos de pagos*/
+
+
+
+
+.cerrar{
+	background-color: #787878;
+	color: #fff;	
+}
+#bt_cerrar{
+	background-color: #787878;
+	color: #fff;
+}

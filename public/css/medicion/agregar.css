@@ -1,0 +1,109 @@
+
+.content{
+  	padding-top: 15px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+  	padding-bottom: 15px;
+
+}
+.content{
+  	overflow: hidden;
+}
+
+
+/*Divs de medicion */
+.todas_mediciones{
+	overflow: hidden;
+	_background-color: green;
+	position: relative;
+}
+.medicion{
+  	padding-top: 15px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+  	padding-bottom: 15px;
+}
+.pliegue_Corporal{
+  	padding-top: 15px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+  	padding-bottom: 15px;
+}
+.medicion_corporal{
+  	padding-top: 15px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+  	padding-bottom: 15px;
+}
+.detalle_medicion{
+  	padding-top: 15px;
+  	padding-right: 15px;
+  	padding-left: 15px;
+  	padding-bottom: 15px;
+}
+.medicion_corporal{
+	_background-color: blue;
+	position: relative;
+	width: 33.33%;
+	float: left;
+	_display: none;
+
+}
+.pliegue_Corporal{
+	_background-color: black;
+	position: relative;
+	width: 33.33%;
+	float: left;
+	_display: none;
+}
+.medicion{
+	_background-color: red;
+	position: relative;
+	width: 33.33%;
+	float: left;
+}
+.detalle_medicion{
+	_background-color: blue;
+	_display: none;
+}
+
+#from_agregar_medicion{
+  _background-color: red;
+  overflow: hidden;
+
+}
+.panel-heading{
+  background-color: blue;
+}
+.buscarUsuario{
+  _background-color:green;
+  position: relative;
+}
+
+
+.topPerfil a{
+  text-decoration: none;
+}
+.list-menu{
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+}
+.list-menu{
+  width:15%;
+}
+.list-menu h3{
+  width:55%;
+  margin: auto;
+}
+.list-menu:hover{
+  background-color: #242f3a;
+  color: #fff;
+}
+
+
+#bt_cerrar{
+  background-color: #787878;
+  color: #fff;
+}

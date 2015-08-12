@@ -1,0 +1,32 @@
+/*div de contenido general*/
+.contenido-general{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	
+}
+.div-tables-users{
+	_background-color: blue;
+}
+/*fin div de contenido general*/
+
+.div-not-users{
+	text-align: center;
+	_background-color: red;
+}
+/**********************************************************************************************/
+
+/*fin div buscar usuarios */
+
+/*div users-by-pay-day*/
+
+.users-by-pay-day{
+	display: none;
+}
+
+/* fin div users-by-pay-day*/
+
+.mensaje{
+	display: none
+}

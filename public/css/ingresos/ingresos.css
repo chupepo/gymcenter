@@ -1,0 +1,45 @@
+.title-imgresos{
+
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.title-imgresos{
+
+	text-align: center;
+	_background-color: red;
+}
+#total{
+	color: red;
+}
+.div-ingresos-hoy{
+	text-align: center;
+}
+.dates{
+	text-align: center;
+	_background-color: orange;
+}
+.dates{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.dates .fecha-hasta{
+	display: inline-block;
+	background-color: black;
+}
+.dates .fecha-desde{
+	display: inline-block;
+	background-color: #fff;
+}
+
+#desde{
+	
+	_background-color: red;
+}
+#hasta{
+	_background-color: blue;
+}

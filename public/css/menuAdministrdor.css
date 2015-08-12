@@ -1,0 +1,16 @@
+/*Menu vertical para el administrador*/
+.list-group a{
+	border: solid 1px #242f3a;
+	border-bottom: solid 1px #242f3a;
+}
+.list-group a.list-group-item {
+	position: relative;
+	height: 70px;
+	padding-top: 23px;
+}
+
+.list-group a.list-group-item:hover{
+	background-color: #242f3a;
+	color: #fff;
+}
+/*fin mMenu vertical para el administrador*/

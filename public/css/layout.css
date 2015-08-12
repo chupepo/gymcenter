@@ -1,0 +1,84 @@
+
+.navheader{
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.nav-container{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.navbar-collapse{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.navheader{
+  background-color: #242f3a;
+}
+.navbar-collapse{
+  _background-color: orange;
+}
+.nav-container{
+  _background-color: green;
+}
+
+/*Se eliminan los puntos de las listas y se acomodo enforma horizontal*/
+.navheader .nav-container
+.navbar-collapse .ul-left{
+  list-style:none;
+  display: inline-block;
+}
+/*se acomodo enforma horizontal las etiiquetas a a la derecha del nav*/
+.navheader .nav-container
+.navbar-collapse .ul-right li{
+  display: inline-block;
+}
+.navheader .nav-container
+.navbar-collapse .ul-right{
+  list-style:none;
+  float: right;
+}
+
+.navheader .nav-container
+.navbar-collapse .ul-left li a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.navheader .nav-container
+.navbar-collapse .ul-right 
+.dropdown .dropdown-toggle{
+  text-decoration: none;
+  color: #fff;
+}
+
+.navheader .nav-container
+.navbar-collapse .ul-right 
+.ul-view-Welcome{
+  text-decoration: none;
+  color: #fff;
+}
+
+.navheader .nav-container
+.navbar-collapse .ul-right
+.ul-view-Welcome{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+
+.img-circle{
+  width: 64px;
+  height: 64px;
+}
+
+.editImg{
+  display: none;
+}

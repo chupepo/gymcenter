@@ -1,0 +1,135 @@
+
+#footer{
+  	background-color: #242f3a;
+    width: 100%;
+    height: 237px;
+  	position: relative;
+    color: #fff;
+}
+.panel, .panel-default{
+
+	border: solid 1px #242f3a;
+}
+
+.panel-default > .panel-heading{
+	border-bottom: solid 1px #242f3a;
+}
+.content{
+  	_width: 77%;
+  	_float: right;
+    _background-color: red;
+}
+.panel-default{
+  margin-top: 15px;
+}
+
+/****************************************************************************************************************/
+/*div contentAndMenu*/
+
+.contentAndMenu{
+  _background-color: red;
+  overflow: hidden;
+}
+
+/*fin div contentAndMenu*/
+/****************************************************************************************************************/
+
+
+/*include TableUsers */
+.containe{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.containe{
+  float: right;
+  width: 77%;
+  _display: none;
+  _background-color: green;
+}
+.aside{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.aside{
+  _background-color: black;
+  float: left;
+  width: 23%;
+}
+
+/*fin de include TableUsers */
+
+/****************************************************************************************************************/
+/*menu vertical div topMenu*/
+.topPerfil .list-menu{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.aside .topPerfil{
+  _background-color: blue;
+}
+
+.aside .topPerfil a{
+  text-decoration: none;
+}
+.aside .topPerfil a .list-menu h3{
+  text-align: center;
+}
+.aside .topPerfil a .list-menu:hover{
+  background-color: #242f3a;
+  color: #fff;
+}
+.topPerfil .list-menu{
+  _background-color: green;
+}
+
+/*fin de menu vertical div topMenu*/
+/****************************************************************************************************************/
+/*div cita*/
+.divTableUsers{
+  _display: none;
+}
+.cita{
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.cita{
+  display: none;
+  _background-color: red;
+}
+.citaContent{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+/*fin div cita*/
+
+.divficha{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.divHora{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.divficha{
+  display: inline-block;
+  _background-color: #ddd;
+  width: 49%;
+}
+.divHora{
+  display: inline-block;
+  _background-color: green;
+  width: 50%;
+}
+
+#bt_cancelar{
+  background-color: #787878;
+  color: #fff;
+}

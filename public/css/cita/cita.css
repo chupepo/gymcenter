@@ -1,0 +1,69 @@
+.list-menu{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.list-menu{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.list-menu{
+	display: inline-block;
+}
+.list-menu:hover{
+	background-color: #242f3a;
+	color: #fff;
+}
+
+
+
+.tablecitas{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.tablecitas{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+
+
+.finalizarCita{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.finalizarCita{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.finalizarCita{
+	display: none;
+	background-color: #fff;
+	border-radius: 15px;
+	_color: #fff;
+}
+
+/************************************************************************************************************/
+/*div updateCita*/
+.updateCita{
+	_display: none;
+}
+
+/************************************************************************************************************/
+/*fin de div updateCita*/
+
+#bt_cancelar{
+	background-color: #787878;
+  	color: #fff;
+}

@@ -1,0 +1,142 @@
+._contentCorreo{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+  background-color: black;
+}
+._div-containe-menu-correos{
+  background-color: red;
+}
+._div-containe-correo{
+  background-color: blue;
+}
+._typeCorreos{
+  background-color: green;
+}
+.topcorreos{
+  _background-color: orange;
+    _margin-top: 15px;
+    _margin-right: 15px;
+    margin-left: 15px;
+    _margin-bottom: 15px;
+}
+.topcorreos{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    _padding-bottom: 15px;
+}
+/**/
+._div-containe-menu-correos{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.div-containe-menu-correos{
+	_background-color: black;
+	_padding-bottom: 30px;
+	_overflow: hidden;
+}
+.aside{
+	_background-color: blue;
+	_width: 23%;
+	_float: left;
+}
+.div-containe-correo{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.div-containe-correo{
+	_background-color: red;
+	width: 75%;
+	_float: left;
+}
+
+.topcorreos a{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.topcorreos a{
+  text-decoration: none;
+	background-color: #fff;
+	display: inline-block;
+	_width: 100px;
+}
+.forms-correos{
+  _background-color: #fff;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+.forms-correos{
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.forms-correos{
+	_background-color: #454455;
+}
+
+
+
+.contentCorreo
+.div-containe-menu-correos
+.div-containe-correo
+.typeCorreos
+.topcorreos h3 a:hover{
+  background-color: #242f3a;
+  color: #fff;
+}
+
+
+
+
+/*menu vertical div topMenu*/
+.topPerfil .list-menu{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.aside .topPerfil{
+  _background-color: blue;
+}
+
+.aside .topPerfil a{
+  text-decoration: none;
+}
+.aside .topPerfil a .list-menu h3{
+  text-align: center;
+}
+.aside .topPerfil a .list-menu:hover{
+  background-color: #242f3a;
+  color: #fff;
+}
+.topPerfil .list-menu{
+  _background-color: green;
+}
+
+/*fin de menu vertical div topMenu*/
+/****************************************************************************************************************/
+
+#bt_cancelar{
+  background-color: #787878;
+  color: #fff;
+}
+/****************************************************************************************************************/
+.correo-recordatorio{
+  display: none;
+}
+#alert{
+ display: none;
+}
+#error{
+  color: red;
+}

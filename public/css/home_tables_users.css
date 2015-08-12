@@ -1,0 +1,17 @@
+.data-tables{
+	_background-color: red;
+	margin-top: 15px;
+}
+
+#search{
+
+}
+.search-users{
+	margin: 0 auto;
+	width: 30%;
+	text-align: center;
+}
+
+.div-table-user-busqueda{
+	display: none;
+}

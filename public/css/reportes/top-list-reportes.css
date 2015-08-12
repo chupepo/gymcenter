@@ -1,0 +1,32 @@
+.contenido{
+	
+	_background-color: red;
+	overflow: hidden;
+}
+
+.contenido a {
+	text-decoration: none;
+}
+.contenido a .list-menu{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.contenido a .list-menu{
+	float: left;
+	width: 250px;
+	height: 130px;
+	text-align: center;
+}
+.contenido a .list-menu:hover{
+	background-color: #242f3a;
+	color: #fff;
+}
+
+.top-list-reportes{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}

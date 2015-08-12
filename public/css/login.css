@@ -1,0 +1,77 @@
+.panel-default > .panel-heading{
+	_border-bottom: solid 1px #242f3a;
+}
+.panel-default{
+	
+	_border: solid 1px #242f3a;
+}
+#login-form{
+
+	position: relative;
+	display: none;
+}
+.navbar-default{
+    width: 100%; /* hacemos que la cabecera ocupe el ancho completo de la página */
+    left: 0; /* Posicionamos la cabecera al lado izquierdo */
+    top: 0; /* Posicionamos la cabecera pegada arriba */
+   position: relative; /* Hacemos que la cabecera tenga una posición fija */
+   }
+
+#footer{
+	background-color: #242f3a;
+  width: 100%;
+	position: relative;
+  bottom: -25px;
+  color: #fff;
+}
+.col-md-offset-2 {
+  margin-top: 20px;
+}
+.parent-content{
+  margin-bottom: 0px;
+}
+
+.panel-default > .panel-heading{
+  _border-bottom: solid 1px #242f3a;
+}
+.panel-default{
+  
+  _border: solid 1px #242f3a;
+}
+#register-form{
+  display: none;
+}
+#footer{
+    background-color: #242f3a;
+    width: 100%;
+    position: relative;
+    color: #fff;
+}
+
+.new_style{
+  left: -4px;
+}
+.calendar_style{
+  position: relative;
+  right: -10px;
+}
+
+
+.panel-heading2{
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+.panel-heading2{
+  text-align: center;
+}
+
+
+.reset-password{
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+  

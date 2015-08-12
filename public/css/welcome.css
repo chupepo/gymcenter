@@ -1,0 +1,38 @@
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+      height: 302px;
+  }
+  #myCarousel{
+  	position: relative;
+  	top: 0px;
+  }
+
+
+  body{
+  	_background-color: #e7e7e7;
+  }
+  .carousel-inner{
+    _top: -10px;
+  }
+
+  .carousel-control{
+    _top: -10px;
+    height: 300px;
+  }
+
+  .img-circle{
+    width: 64px;
+    height: 64px;
+  }
+  .navbar-default .navbar-nav>li>a {
+    color: #fff;
+  }
+  .navbar-default .navbar-brand{
+    color: #fff;
+  }
+  .navbar-default .navbar-brand:hover{
+    border-radius: 15px;
+    opacity: 0.8;
+  }

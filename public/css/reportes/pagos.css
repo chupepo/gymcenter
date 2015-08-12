@@ -1,0 +1,63 @@
+.img-usuario{
+	width: 100px;
+	height: 100px;
+}
+.cancelar-pago{
+	position: relative;
+	_background-color: black;
+}
+.form-datos-pago{
+	overflow: hidden;
+	margin: 0 auto;
+	text-align: center;
+	_background-color: green;
+	width: 42%;
+}
+.datos-pago .texto{
+
+	text-align: center;
+	_background-color: #565656;
+}
+
+.datos{
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.datos{
+
+	float: left;
+	
+}
+
+.user-info{
+	width: 200px;
+	height: 200px;
+	_background-color: orange;
+}
+.pago-info{
+	width: 325px;
+	height: 200px;
+	text-align: left;
+	_background-color: #989888;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cerrar{
+	background-color: #787878;
+	color: #fff;	
+}

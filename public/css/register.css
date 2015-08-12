@@ -1,0 +1,30 @@
+
+#register-form{
+	display: none;
+}
+
+.panel-default > .panel-heading{
+	_border-bottom: solid 1px #242f3a;
+}
+.panel-default{
+	margin-top: 15px;
+	_border: solid 1px #242f3a;
+}
+.inputFecha{
+	width: 350px;
+	position: relative;
+	margin-left: 15px;
+}
+.calendarFecha{
+	position: relative;
+	margin-left: 15px;
+}
+.panel-heading2{
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.panel-heading2{
+	text-align: center;
+}
